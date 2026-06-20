@@ -56,31 +56,30 @@ def lambda_handler(event, context):
     }
 ```
 
-## Screenshots
+## 📸 Screenshots
 
-### Lambda Function Overview
+### 🔹 Lambda Function Overview
+![Lambda Function](screenshots/function.jpeg)
 
-Add screenshot here
+---
 
-### Lambda Code
+### 🔹 Lambda Code View
+![Lambda Code](screenshots/lambda.jpeg)
 
-Add screenshot here
+---
 
-### EventBridge Trigger
+### 🔹 EventBridge Trigger
+![Trigger](screenshots/triggers.jpeg)
 
-Add screenshot here
+---
 
-### Successful Test Execution
+### 🔹 Successful Test Output
+![Test Output](screenshots/test-output.jpeg)
 
-Add screenshot here
+---
 
-### IAM Permissions
-
-Add screenshot here
-
-### EC2 Instance Status
-
-Add screenshot here
+### 🔹 EC2 Instances Status
+![EC2 Instances](screenshots/instances.jpeg)
 
 ## Results
 
